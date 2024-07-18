@@ -22,6 +22,35 @@ h4{
     background-color:#EEEEEE;
 }
 .client{
-    
+   width: 600px; 
+   margin-left: 50px;
+   height: 100px;
+}
+#low{
+     color: red;
+    background-color: rgb(232, 154, 154);
+    border-radius: 40%;
+    width:15px;
+}
+#para-l{
+    margin-left: 15px;
+}
+#medium{
+   color:orange;
+   background-color: rgb(241, 208, 148); 
+   border-radius: 40%;
+   width: 60px;
+}
+#para-m{
+    margin-left: 5px;
+    width:10px;
+}
+#high{
+    color: green;
+    background-color: rgb(173, 239, 173);
+    border-radius: 40%;
+}
+#para-h{
+    margin-left: 15px;
 }
 
