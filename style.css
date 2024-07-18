@@ -23,7 +23,7 @@ h4{
 }
 .client{
     align-content: center;
-   width: 90%; 
+   width: 80%; 
    margin-left: 55px;
 border-spacing: 0 20px;
 border: "1";
@@ -33,33 +33,33 @@ height: 290px;
 }
 #low{
      color: red;
-    background-color: rgb(232, 154, 154);
-    border-radius: 40%;
- width:100px;
-    
-    
-}
+    }
 #para-l{
     margin-left: 15px;
+    background-color: rgb(232, 154, 154);
+    border-radius: 50%;
+ width:100px;
+ height: 50px;
 }
 #medium{
    color:orange;
-   background-color: rgb(241, 208, 148); 
-   border-radius: 40%;
-  
-}
+   }
 #para-m{
-    margin-left: 5px;
-    width:10px;
+    margin-left: 15px;
+    width:100px;
+    background-color: rgb(241, 208, 148); 
+   border-radius: 50%;
+   height: 50px;
 }
 #high{
     color: green;
-    background-color: rgb(173, 239, 173);
-    border-radius: 40%;
-   
 }
 #para-h{
     margin-left: 15px;
+    background-color: rgb(173, 239, 173);
+    border-radius: 50%;
+    width: 100px;
+    height: 50px;
 }
 .client   {
     border: 1px solid black;
