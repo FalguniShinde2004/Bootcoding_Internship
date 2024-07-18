@@ -22,15 +22,22 @@ h4{
     background-color:#EEEEEE;
 }
 .client{
-   width: 600px; 
-   margin-left: 50px;
-   height: 100px;
+    align-content: center;
+   width: 90%; 
+   margin-left: 55px;
+border-spacing: 0 20px;
+border: "1";
+margin-top: 20px;
+height: 290px;
+
 }
 #low{
      color: red;
     background-color: rgb(232, 154, 154);
     border-radius: 40%;
-    width:15px;
+ width:100px;
+    
+    
 }
 #para-l{
     margin-left: 15px;
@@ -39,7 +46,7 @@ h4{
    color:orange;
    background-color: rgb(241, 208, 148); 
    border-radius: 40%;
-   width: 60px;
+  
 }
 #para-m{
     margin-left: 5px;
@@ -49,8 +56,18 @@ h4{
     color: green;
     background-color: rgb(173, 239, 173);
     border-radius: 40%;
+   
 }
 #para-h{
     margin-left: 15px;
+}
+.client   {
+    border: 1px solid black;
+ border-collapse: collapse;
+}
+.client td{
+    border :1px solid black;
+    padding: 5px;
+    height: 30px;
 }
 
