@@ -35,7 +35,7 @@ height: 290px;
      color: red;
     }
 #para-l{
-    margin-left: 15px;
+    margin-left: 65px;
     background-color: rgb(232, 154, 154);
     border-radius: 50%;
  width:100px;
@@ -45,7 +45,7 @@ height: 290px;
    color:orange;
    }
 #para-m{
-    margin-left: 15px;
+    margin-left: 65px;
     width:100px;
     background-color: rgb(241, 208, 148); 
    border-radius: 50%;
@@ -55,7 +55,7 @@ height: 290px;
     color: green;
 }
 #para-h{
-    margin-left: 15px;
+    margin-left: 65px;
     background-color: rgb(173, 239, 173);
     border-radius: 50%;
     width: 100px;
@@ -69,5 +69,9 @@ height: 290px;
     border :1px solid black;
     padding: 5px;
     height: 30px;
+}
+.client th{
+    border:1px solid black;
+    border-collapse: separate;
 }
 
