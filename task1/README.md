@@ -7,4 +7,4 @@
 ### Preview
 
 
-![Preview](preview.png)
+![Preview](preview.png) { width: 200px; }
