@@ -4,4 +4,4 @@
 <p>Output of tailwind.css </p>
 ![Screenshot 2024-07-20 135130](https://github.com/user-attachments/assets/cab88674-e3b8-4247-b387-dcd7ea5e9b54)
 <p>Output of task1</p>
-![Uploading Screenshot 2024-07-22 132538.png…]()
+![Screenshot 2024-07-22 132538](https://github.com/user-attachments/assets/090f2ac1-a3ce-4a2a-a1e9-c4dd8fa1306a)
