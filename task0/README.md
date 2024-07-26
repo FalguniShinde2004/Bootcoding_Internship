@@ -6,4 +6,4 @@
 - CSS
 
 ### Preview
-<img src="output.png" alt="output" style="width:200px;"/>
+<img src="output.png" alt="output" width="200" height="200"/>
