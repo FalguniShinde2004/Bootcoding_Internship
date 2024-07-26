@@ -6,4 +6,4 @@
 - CSS
 
 ### Preview
-![output](outpup.png){ width: 200px; }
+<img src="output.png" alt="output" style="width:200px;"/>
