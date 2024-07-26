@@ -6,4 +6,4 @@
 - CSS
 
 ### Preview
-![preview](outpup.png){ width: 200px; }
+![output](outpup.png){ width: 200px; }
