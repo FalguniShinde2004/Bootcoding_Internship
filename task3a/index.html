@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enroll</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        .free {
+            margin-top: 20px;
+            font-size: larger;
+            font-weight: 600;
+        }
+
+        .card {
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .card-header {
+            background-image: linear-gradient(to right, #dc3232, #df6d6d);
+            color: white;
+        }
+    </style>
+</head>
+<body class="bg-gray-100">
+    <div class="container mx-auto py-12">
+        <div class="text-center">
+            <h1 class="text-4xl font-bold mb-4 text-blue-700">General Aptitude</h1>
+            <p class="text-gray-600 text-lg">Create an ATS Friendly Latex Resume 🚀</p>
+        </div>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 mt-12">
+            
+            <div class="card bg-white border rounded-lg shadow-sm p-8 text-center">
+                <div class="card-header py-4 rounded-t-lg mb-4">
+                    <h2 class="font-bold text-xl">Beginner Level</h2>
+                </div>
+                <div class="text-red-400 text-6xl mb-6">
+                    📋
+                </div>
+                <button class="bg-red-600 text-white font-medium py-2 px-6 rounded-lg hover:bg-red-700 transition duration-200">
+                    Take The Test
+                </button>
+                <p class="text-green-600 free mt-4"><a href="#">Free</a></p>
+            </div>
+
+            
+            <div class="card bg-white border rounded-lg shadow-sm p-8 text-center">
+                <div class="card-header py-4 rounded-t-lg mb-4">
+                    <h2 class="font-bold text-xl">Intermediate Level</h2>
+                </div>
+                <div class="text-red-600 text-6xl mb-6">
+                    📋
+                </div>
+                <button class="bg-red-600 text-white font-medium py-2 px-6 rounded-lg hover:bg-red-700 transition duration-200">
+                    Take The Test
+                </button>
+                <p class="text-green-600 free mt-4"><a href="#">Free</a></p>
+            </div>
+
+           
+            <div class="card bg-white border rounded-lg shadow-sm p-8 text-center">
+                <div class="card-header py-4 rounded-t-lg mb-4">
+                    <h2 class="font-bold text-xl">Advanced Level</h2>
+                </div>
+                <div class="text-red-600 text-6xl mb-6">
+                    📋
+                </div>
+                <button class="bg-red-600 text-white font-medium py-2 px-6 rounded-lg hover:bg-red-700 transition duration-200">
+                    Take The Test
+                </button>
+                <p class="text-red-600 free mt-4"><a href="gateway.html">Paid</a></p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
